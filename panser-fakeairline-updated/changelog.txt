@@ -1,0 +1,7 @@
+web\domain\dto\view.java   - Changed Airline Name to "Bonier Flights"
+service\populator\flightPopulator.java   - Changed DayOfWeek to .TUESDAY in CreateSpecialFlyToEachMonday since flights ended up being scheduled for sunday
+service\populator\flightPopulator.java	 - Changed flightNumbers
+web\mapper\FlightMapper.java   - Changed getFlightId to getFlightNumber
+web\domain\dto\view\ReservationResponse.java      - Changed flightId to flightNumber
+
+
